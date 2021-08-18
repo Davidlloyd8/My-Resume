@@ -1,0 +1,70 @@
+
+body {
+  background-color: rgba(50, 80, 70, 0.5);
+  color: #fff;
+}
+
+.top-row {
+  background-color: rgba(50, 50, 40, 0.5);
+  color: #fff;
+}
+
+img.image {
+  height: 250px;
+  border-radius: 15px;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 70px;
+  font-family: monospace;
+}
+h3 {
+  font-weight: bold;
+  font-family: monospace;
+}
+.fa-map-marker {
+  color: red;
+}
+.fa-phone {
+  color: deepskyblue;
+}
+p.icons a {
+  text-decoration: none;
+}
+p.icons a:hover {
+  color: inherit;
+}
+.fa-linkedin {
+  color: skyblue;
+  font-size: 26px
+}
+.fa-facebook {
+  color: blue;
+  font-size: 26px;
+}
+.fa-twitter {
+  color: 	#1DA1F2;
+  font-size: 26px;
+}
+.fa-github {
+  color: #211F1F;
+  font-size: 26px;
+}
+p.icons {
+  text-align: center;
+}
+p.icons span {
+  padding-left: 15px;
+}
+p.small {
+  text-align: center;
+}
+p.small a {
+  text-decoration: none;
+  color: #fff;
+}
+.detail-row {
+  background-color: #fff;
+  color: #000;
+}
