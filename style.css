@@ -68,3 +68,9 @@ p.small a {
   background-color: #fff;
   color: #000;
 }
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 40px;
+  }
+}
